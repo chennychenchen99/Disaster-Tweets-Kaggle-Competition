@@ -4,6 +4,6 @@
 
 Go to the link here: https://nlp.stanford.edu/projects/glove/
 
-Download glove.6B.zip and open it
+Download glove.twitter.27B.zip and open it
 
-Drag the glove.6B.100d.txt file from that folder into this folder
+Drag the glove.twitter.27B.100d.txt file from that folder into this folder
